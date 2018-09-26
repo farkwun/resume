@@ -238,3 +238,8 @@ TSWLatexianTemp*
 # standalone packages
 *.sta
 
+# swap files
+*.swp
+
+# output files
+*.pdf
